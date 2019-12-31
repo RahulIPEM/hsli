@@ -1,9 +1,6 @@
 /*
 Template Name: vacayhome
 File Name: style.css
-Author Name: ThemeVault
-Author URI: http://www.themevault.net/
-License URI: http://www.themevault.net/license/
 */
 
 /*@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');*/
@@ -913,4 +910,11 @@ footer a{
 }
 #instafeed > div:nth-last-child(-n+3) {
     margin-top: 15px;
+}
+/* custom */
+.gallery-img{
+    width:98%;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }

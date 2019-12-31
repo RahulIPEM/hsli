@@ -1,9 +1,9 @@
 /*
  Template Name: vacayhome
  File Name: custom.js
- Author Name: ThemeVault
- Author URI: http://www.themevault.net/
- License URI: http://www.themevault.net/license/
+ Author Name: rahsanshu
+ Author URI: http://www.rahsanshu.net/
+ License URI: http://www.rahsanshu.net/license/
  */
 
 $(document).ready(function () {
