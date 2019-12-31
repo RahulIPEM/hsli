@@ -290,6 +290,7 @@ ul{
 .gallery-image img {
     margin-left: auto;
     margin-right: auto;
+    height: 200px
 }
 .gallery-image a.info {
     color: #fff;
