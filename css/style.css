@@ -287,7 +287,8 @@ ul{
 .gallery-image img {
     margin-left: auto;
     margin-right: auto;
-    height: 200px
+    height: 200px;
+    width: 262px;
 }
 .gallery-image a.info {
     color: #fff;
@@ -854,8 +855,9 @@ footer a{
 }
 /*single page image*/
 .image-head-wrapper {
-    background: rgba(0, 0, 0, 0) url("../images/inner-banner.png") no-repeat scroll center top;
+    background: rgba(0, 0, 0, 0) url("../images/inner-banner.jpeg") no-repeat scroll center top;
     height: 650px;
+    
     position: relative;
 }
 .inner-wrapper {
